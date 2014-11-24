@@ -1,0 +1,14 @@
+testcases/test1.txt,Fb,pos
+testcases/test1.txt,b -> Xa,pos
+testcases/test1.txt,F(c -> a),pos
+testcases/test1.txt,a -> b,neg
+testcases/test1.txt,XXGa,pos
+testcases/test1.txt,a -> (b | c | d),neg
+testcases/test1.txt,XF(a -> Ga),pos
+testcases/test1.txt,F(Ga),pos
+testcases/test4.txt,Freading,neg
+testcases/test4.txt,ready -> Xreading,pos
+testcases/test3.txt,G(e -> Xa),pos
+testcases/test3.txt,G(c -> X~a),pos
+testcases/test5.txt,Fa,pos
+testcases/test1.txt,F(a -> Ga),pos
